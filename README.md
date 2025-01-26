@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bunyamin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoncavalli&label=Profile%20views&color=0e75b6&style=flat" alt="leoncavalli" /> </p>
 
-- 🔭 I’m currently working on [Traderlands](https://www.traderlands.com)
+- 🔭 I’m currently working on [Turkish Technology](https://www.turkishtechnology.com)
 
 - 📫 How to reach me **bunyamingultekin97@gmail.com**
 
